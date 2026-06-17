@@ -1,21 +1,212 @@
-# 💫 About Me:
-🔭Working on: Building projects at the intersection of systems and machine learning — currently exploring LLM fine-tuning & distributed systems<br>🤝Looking to collaborate on: Open source tools, research projects, and startup ideas with a strong engineering foundation<br>🤲Looking for help with: Landing a great SWE internship — open to referrals and advice from folks in the industry!<br>🌱Currently learning: System design, TypeScript patterns, and advanced DSA for competitive programming<br>💬Ask me about: Web dev with React / Next.js, SQL, life at IIT Patna, or picking the right data structure at 11 PM<br>⚡Fun fact: Just started competitive programming — sitting at 1100 on Codeforces & 1600 on LeetCode and grinding my way up. The climb is the fun part 📈
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Antriksha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Knight%20%7C%20IIT%20Patna%20CS%20%7C%20Full%20Stack%20%26%20CP%20Enthusiast&descAlignY=58&descSize=18&descColor=a78bfa" />
+</p>
 
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=🏅+LeetCode+Knight+%7C+Rating+1900%2B;⚡+1000%2B+Problems+Solved;🚀+IIT+Patna+CS+Undergrad;🤖+AI+%26+Algorithms+Enthusiast;🌐+Open+Source+Explorer" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/antrikshaaman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antrikshaaman@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=antrikshagalaxy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=antrikshagalaxy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=antrikshagalaxy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=antrikshagalaxy&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/antrikshaaman">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:antrikshaaman@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=antrikshagalaxy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+```yaml
+name: Antriksha
+location: IIT Patna, Bihar 🇮🇳
+education: B.Tech CSE @ IIT Patna (2024–2028)
+
+competitive_programming:
+  leetcode: Knight 🏅 (Max:1723)
+  codechef: 3-Star ⭐⭐⭐
+  codeforces: Grinding 📈 (1100 & climbing)
+  problems_solved: 800+
+
+passions:
+  - Algorithmic Problem Solving
+  - Full Stack Development (MERN)
+
+extracurricular:
+  - Sub Coordinator @ Exousia Dance Club, IIT Patna 💃
+  - Gym culture & fitness enthusiast 🏋️
+```
+
+---
+
+## 🏆 Competitive Programming
+
+| Platform | Handle | Rating | Badge |
+|----------|--------|--------|-------|
+| 🟡 **[LeetCode](https://leetcode.com/antrikshagalaxy)** | antrikshagalaxy | **1723+** | ![Knight](https://img.shields.io/badge/Knight-FFD700?style=for-the-badge&logo=leetcode&logoColor=black) |
+| 🟤 **[CodeChef](https://codechef.com/space_galaxy)** | space_galaxy | **3★** | ![3Star](https://img.shields.io/badge/3%E2%98%85_Coder-8B4513?style=for-the-badge&logo=codechef&logoColor=white) |
+| 🔵 **[Codeforces](https://codeforces.com/antriksha_galaxy)** | — | **1100** | ![Newbie](https://img.shields.io/badge/Grinding_Up-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white) |
+
+<p align="center">
+  <a href="https://leetcode.com/antrikshagalaxy">
+    <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://codechef.com/space_galaxy">
+    <img src="https://img.shields.io/badge/View%20CodeChef%20Profile-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+[![GenZX Store](https://github-readme-stats.vercel.app/api/pin/?username=antrikshagalaxy&repo=E-commerce&theme=tokyonight&border_color=7c3aed&hide_border=false)](https://github.com/antrikshagalaxy/E-commerce)
+
+### 🛍️ [GenZX Store](https://genzx-fashion.vercel.app) · [Live](https://genzx-fashion.vercel.app) · [Repo](https://github.com/antrikshagalaxy/E-commerce)
+> Full-stack MERN e-commerce platform with product catalog, cart, and authentication.
+
+- ⚡ React + Vite frontend deployed on Vercel
+- 🛒 Node.js / Express REST API with MongoDB
+- 🔐 JWT auth, protected routes, responsive UI with Tailwind CSS
+
+---
+
+### 💬 Real-time Chat Application
+> WebSocket-powered chat app with real-time messaging and room support.
+
+- 🔄 Socket.io for bidirectional real-time communication
+- 👥 Room-based messaging with user presence indicators
+- 🖥️ MERN stack, clean minimal UI
+
+---
+
+### 🤖 InterviewPrep-AI
+> AI-powered resume analyzer built with Claude API — portfolio project for SDE internship applications.
+
+- 🧠 Anthropic Claude API for intelligent resume feedback
+- 📧 Nodemailer integration for report delivery
+- 🌐 Vanilla HTML/CSS/JS frontend + Node.js/Express backend
+
+---
+
+### 🎯 [Interview-PrepAI](https://github.com/antrikshagalaxy/Interview-PrepAI) · [Repo](https://github.com/antrikshagalaxy/Interview-PrepAI)
+> AI-powered mock interview platform to help developers ace SDE interviews with smart question generation and feedback.
+ 
+- 🤖 GenAI API integration for dynamic, role-based interview question generation
+- 💬 Interactive Q&A interface simulating real interview rounds
+- 📊 Instant AI-driven feedback on answers to sharpen responses
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=antrikshagalaxy&theme=tokyonight&show_icons=true&include_all_commits=false&count_private=false&border_color=7c3aed&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=antrikshagalaxy&theme=tokyonight&layout=compact&langs_count=8&border_color=7c3aed&hide_border=false&bg_color=0d1117&title_color=a78bfa" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=antrikshagalaxy&theme=tokyonight&border=7c3aed&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antrikshagalaxy&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ff6b6b&area=true&hide_border=false&border_color=7c3aed" />
+</p>
+
+---
+
+## 🎯 DSA Progress
+
+```
+📊 Problems Solved: 800+ across all platforms
+
+LeetCode    ████████████████████░  Easy ✅ | Medium ✅ | Hard ✅
+CodeChef    ████████████████░░░░░  Starters, Cook-offs
+Codeforces  ██████████░░░░░░░░░░  Div 2 & Div 3 Rounds
+GFG         ████████░░░░░░░░░░░░  Interview Prep
+
+Key Topics Mastered:
+✅ Dynamic Programming (Subset Sum, LIS, Partitions)
+✅ Graph Algorithms (Dijkstra, BFS/DFS, Topo Sort, LCA)
+✅ Greedy
+✅ SQL (Window Functions, Joins, Aggregations)
+```
+
+---
+
+## 📚 Coursework
+
+`Data Structures & Algorithms` `Discrete Mathematics` `Optimization Techniques`
+
+`Artificial Intelligence` `Computer Architecture` `Probability Theory`
+
+`Database Management Systems` `Operating Systems`
+
+---
+
+## 💬 Quote I Live By
+
+> *"The climb is the fun part."* 📈
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/antrikshaaman">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:antrikshaaman@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/antrikshagalaxy">
+    <img src="https://img.shields.io/badge/LeetCode-Knight%20Profile-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://codechef.com/space_galaxy">
+    <img src="https://img.shields.io/badge/CodeChef-3★%20Profile-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+</p>
