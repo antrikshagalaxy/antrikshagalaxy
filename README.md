@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Antriksha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Knight%20%7C%20IIT%20Patna%20CS%20%7C%20Full%20Stack%20%26%20CP%20Enthusiast&descAlignY=58&descSize=18&descColor=a78bfa" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Antriksha&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=IIT%20Patna%20CS%20%7C%20CP%20Enthusiast&amp;descAlignY=58&amp;descSize=18&amp;descColor=a78bfa" />
 </p>
+
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=🏅+LeetCode+Knight+%7C+Rating+1900%2B;⚡+1000%2B+Problems+Solved;🚀+IIT+Patna+CS+Undergrad;🤖+AI+%26+Algorithms+Enthusiast;🌐+Open+Source+Explorer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=🏅+LeetCode+Knight+%7C+Rating+1700%2B;⚡+800%2B+Problems+Solved;🚀+IIT+Patna+CS+Undergrad;🌐+Open+Source+Explorer" />
   </a>
 </p>
 
@@ -48,15 +49,15 @@ extracurricular:
 
 | Platform | Handle | Rating | Badge |
 |----------|--------|--------|-------|
-| 🟡 **[LeetCode](https://leetcode.com/antrikshagalaxy)** | antrikshagalaxy | **1723+** | ![Knight](https://img.shields.io/badge/Knight-FFD700?style=for-the-badge&logo=leetcode&logoColor=black) |
-| 🟤 **[CodeChef](https://codechef.com/space_galaxy)** | space_galaxy | **3★** | ![3Star](https://img.shields.io/badge/3%E2%98%85_Coder-8B4513?style=for-the-badge&logo=codechef&logoColor=white) |
+| 🟡 **[LeetCode](https://leetcode.com/u/antriksha_galaxy)** | antrikshagalaxy | **1700+** | ![Knight](https://img.shields.io/badge/Knight-FFD700?style=for-the-badge&logo=leetcode&logoColor=black) |
+| 🟤 **[CodeChef](https://codechef.com/users/space_galaxy)** | space_galaxy | **3★** | ![3Star](https://img.shields.io/badge/3%E2%98%85_Coder-8B4513?style=for-the-badge&logo=codechef&logoColor=white) |
 | 🔵 **[Codeforces](https://codeforces.com/antriksha_galaxy)** | — | **1100** | ![Newbie](https://img.shields.io/badge/Grinding_Up-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white) |
 
 <p align="center">
-  <a href="https://leetcode.com/antrikshagalaxy">
+  <a href="https://leetcode.com/u/antriksha_galaxy">
     <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
-  <a href="https://codechef.com/space_galaxy">
+  <a href="https://codechef.com/users/space_galaxy">
     <img src="https://img.shields.io/badge/View%20CodeChef%20Profile-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
   </a>
 </p>
@@ -113,16 +114,7 @@ extracurricular:
 - 🖥️ MERN stack, clean minimal UI
 
 ---
-
-### 🤖 InterviewPrep-AI
-> AI-powered resume analyzer built with Claude API — portfolio project for SDE internship applications.
-
-- 🧠 Anthropic Claude API for intelligent resume feedback
-- 📧 Nodemailer integration for report delivery
-- 🌐 Vanilla HTML/CSS/JS frontend + Node.js/Express backend
-
----
-
+[![Interview-PrepAI](https://github-readme-stats.vercel.app/api/pin/?username=antrikshagalaxy&repo=Interview-PrepAI&theme=tokyonight&border_color=7c3aed&hide_border=false)](https://github.com/antrikshagalaxy/Interview-PrepAI)
 ### 🎯 [Interview-PrepAI](https://github.com/antrikshagalaxy/Interview-PrepAI) · [Repo](https://github.com/antrikshagalaxy/Interview-PrepAI)
 > AI-powered mock interview platform to help developers ace SDE interviews with smart question generation and feedback.
  
@@ -206,7 +198,6 @@ Key Topics Mastered:
     <img src="https://img.shields.io/badge/CodeChef-3★%20Profile-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
   </a>
 </p>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer&amp;animation=fadeIn" />
 </p>
