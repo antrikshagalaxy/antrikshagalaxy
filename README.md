@@ -95,32 +95,44 @@ extracurricular:
 
 ## 🚀 Featured Projects
 
+<table>
+  <tr>
+    <td width="33%" valign="top">
+
 [![GenZX Store](https://github-readme-stats.vercel.app/api/pin/?username=antrikshagalaxy&repo=E-commerce&theme=tokyonight&border_color=7c3aed&hide_border=false)](https://github.com/antrikshagalaxy/E-commerce)
 
 ### 🛍️ [GenZX Store](https://genzx-fashion.vercel.app) · [Live](https://genzx-fashion.vercel.app) · [Repo](https://github.com/antrikshagalaxy/E-commerce)
 > Full-stack MERN e-commerce platform with product catalog, cart, and authentication.
-
 - ⚡ React + Vite frontend deployed on Vercel
 - 🛒 Node.js / Express REST API with MongoDB
 - 🔐 JWT auth, protected routes, responsive UI with Tailwind CSS
+- 🛠️ Admin dashboard to manage orders and update live order tracking status
 
----
+</td>
+    <td width="33%" valign="top">
 
-### 💬 Real-time Chat Application
-> WebSocket-powered chat app with real-time messaging and room support.
+[![Real-Time Chat Application](https://github-readme-stats.vercel.app/api/pin/?username=antrikshagalaxy&repo=Real-Time-ChatApp&theme=tokyonight&border_color=7c3aed&hide_border=false)](https://github.com/antrikshagalaxy/Real-Time-ChatApp)
 
-- 🔄 Socket.io for bidirectional real-time communication
-- 👥 Room-based messaging with user presence indicators
-- 🖥️ MERN stack, clean minimal UI
+### 💬 [Real-Time Chat App](https://github.com/antrikshagalaxy/Real-Time-ChatApp) · [Repo](https://github.com/antrikshagalaxy/Real-Time-ChatApp)
+> Real-time messaging app with Firebase backend, room-based chat, and live user presence.
+- 🔄 Firestore listeners for instant, bidirectional message sync
+- 👥 Room-based channels with online/offline presence indicators
+- 🖥️ MERN stack with a clean, minimal UI
 
----
+</td>
+    <td width="33%" valign="top">
+
 [![Interview-PrepAI](https://github-readme-stats.vercel.app/api/pin/?username=antrikshagalaxy&repo=Interview-PrepAI&theme=tokyonight&border_color=7c3aed&hide_border=false)](https://github.com/antrikshagalaxy/Interview-PrepAI)
+
 ### 🎯 [Interview-PrepAI](https://github.com/antrikshagalaxy/Interview-PrepAI) · [Repo](https://github.com/antrikshagalaxy/Interview-PrepAI)
 > AI-powered mock interview platform to help developers ace SDE interviews with smart question generation and feedback.
- 
 - 🤖 GenAI API integration for dynamic, role-based interview question generation
 - 💬 Interactive Q&A interface simulating real interview rounds
 - 📊 Instant AI-driven feedback on answers to sharpen responses
+
+</td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
