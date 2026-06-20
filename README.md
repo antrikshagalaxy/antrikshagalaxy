@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=antrikshagalaxy&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
   <a href="https://www.linkedin.com/in/antrikshaaman">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
